@@ -1,0 +1,1 @@
+[![Java CI with Gradle](https://github.com/Evgeny-Starikov/aqa-patterns-test-mode/actions/workflows/gradle.yml/badge.svg?branch=main)](https://github.com/Evgeny-Starikov/aqa-patterns-test-mode/actions/workflows/gradle.yml)
